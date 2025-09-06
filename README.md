@@ -1,4 +1,4 @@
-# 🚀 NMIT Hackathon 2025  
+# 🚀 Odoo X NMIT Hackathon 2025  
 
 ## 📌 Problem Statement
 **EcoFinds – Sustainable Second-Hand Marketplace**  
