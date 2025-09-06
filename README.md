@@ -16,11 +16,10 @@
 - **Other Tools:** Postman (API testing), GitHub (collaboration), JWT (authentication)  
 
 ## ✨ Features
-- ✅ User Registration & Login with JWT authentication  
-- ✅ Browse/Search products by category  
-- ✅ Add, Edit, Delete user listings  
-- ✅ Cart system with checkout  
-- ✅ View purchase history  
-- ✅ Simple, mobile-friendly UI  
+ ✅ User Registration & Login with JWT authentication  
+ ✅ Browse/Search products by category  
+ ✅ Add, Edit, Delete user listings  
+ ✅ Cart system with checkout  
+ ✅ View purchase history  
+ ✅Simple, mobile-friendly UI  
 
-## 📂 Project Structure
