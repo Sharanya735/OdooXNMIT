@@ -16,7 +16,7 @@ This prototype should work on both desktop and mobile, ensuring smooth user expe
 ## 👥 Team Members
 - **Vyshali NS** – Frontend (React)  
 - **Sharanya M** – Backend (Node.js/Express)  
-- **[Nisha K]** – Database + Integration + Testing  
+- **Nisha K** – Database + Integration + Testing  
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (Vite), Material UI, Axios  
@@ -25,10 +25,10 @@ This prototype should work on both desktop and mobile, ensuring smooth user expe
 - **Other Tools:** Postman (API testing), GitHub (collaboration), Cloudinary (for image placeholder if time permits)  
 
 ## ✨ Features
-- ✅ User Authentication (Register/Login)  
-- ✅ Profile Creation + Dashboard Editing  
-- ✅ Add / Edit / Delete Product Listings  
-- ✅ Browse Listings with Filters & Search  
-- ✅ Product Detail Page (Title, Price, Description, Category, Image)  
-- ✅ Cart Page with product cards  
-- ✅ Previous Purchases History  
+ ✅ User Authentication (Register/Login)  
+ ✅ Profile Creation + Dashboard Editing  
+ ✅ Add / Edit / Delete Product Listings  
+ ✅ Browse Listings with Filters & Search  
+ ✅ Product Detail Page (Title, Price, Description, Category, Image)  
+ ✅ Cart Page with product cards  
+ ✅ Previous Purchases History  
